@@ -1,0 +1,5 @@
+D:\Data\XpertEase\Courses Workshops and Templates\SQL Performance\Optimising SQL Database Performance\CLRSample\CLRSample\bin\Debug\SqlClassLibrary.dll
+D:\Data\XpertEase\Courses Workshops and Templates\SQL Performance\Optimising SQL Database Performance\CLRSample\CLRSample\bin\Debug\SqlClassLibrary.pdb
+D:\Data\XpertEase\Courses Workshops and Templates\SQL Performance\Optimising SQL Database Performance\CLRSample\CLRSample\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\XpertEase\Courses Workshops and Templates\SQL Performance\Optimising SQL Database Performance\CLRSample\CLRSample\obj\Debug\SqlClassLibrary.dll
+D:\Data\XpertEase\Courses Workshops and Templates\SQL Performance\Optimising SQL Database Performance\CLRSample\CLRSample\obj\Debug\SqlClassLibrary.pdb

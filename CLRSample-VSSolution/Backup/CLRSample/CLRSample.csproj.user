@@ -1,0 +1,25 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>
+    </PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{c252feb5-a946-4202-b1d4-9916a0590387}" xmlns="">
+        <DatabaseConnection Name="Data Source=PETERW-E4300;Initial Catalog=demo;Integrated Security=True" Provider="{91510608-8809-4020-8897-FBA057E22D54}" ConnectionString="01000000D08C9DDF0115D1118C7A00C04FC297EB01000000919BE5C406C0004D88DA9DDECE510C2F0000000002000000000003660000A800000010000000ADB8F7852DDD6C4658F611BD84935C580000000004800000A000000010000000BC4C32C5727CE82942BBEE7747894A7190000000C850C2F6831274E347503DF5293760D22A1FE5BF6D716BF3B8F05ED14A305F7C908EB6EFC62C34B6FDE7613DC4D019C7372AADAE99553682EF0A102385284C9E1603CDFCC2603F1D17DCF15105672DC950D3842E29B87834C81EAE3102D1353EAF889733B272785C7F3F2F8F32D0A4828308BE20B1069FA85061DF5B28970C8E5AE5552328623EBAF0AE036E0486CC1B140000000D52536CA5D66F4BB11C04CEB693B2EFC9A8DE03" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

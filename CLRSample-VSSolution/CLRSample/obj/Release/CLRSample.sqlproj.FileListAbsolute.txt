@@ -1,0 +1,7 @@
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\bin\Release\CLRSample.dacpac
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\bin\Release\SqlClassLibrary.dll
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Release\Model.xml
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Release\refactor.xml
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Release\postdeploy.sql
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Release\predeploy.sql
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Release\SqlClassLibrary.dll

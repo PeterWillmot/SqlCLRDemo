@@ -1,0 +1,9 @@
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\bin\Debug\CLRSample.dacpac
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\bin\Debug\SqlClassLibrary.dll
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\bin\Debug\SqlClassLibrary.pdb
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Debug\Model.xml
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Debug\refactor.xml
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Debug\postdeploy.sql
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Debug\predeploy.sql
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Debug\SqlClassLibrary.dll
+C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Debug\SqlClassLibrary.pdb
