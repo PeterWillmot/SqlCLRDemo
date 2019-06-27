@@ -29,25 +29,3 @@ BEGIN
 	RETURN -1
 END
 GO
-
-SELECT dbo.ufn_GetTokenLength(TokenString, 0), dbo.ufn_GetTokenLength(TokenString, 1)
-FROM CLRSampleData.dbo.StringTokens
-
--- NOTE: the DROPCLEANBUFFER does not change performance - most cost is PROC
-
-DBCC DROPCLEANBUFFERS
-GO
-
---
--- CLR Stuff starts here
---
-
-/*
-sp_configure 'clr enabled', 1
-
-RECONFIGURE
-
-
-SELECT dbo.GetFastTokenLength(TokenString, 0), dbo.GetFastTokenLength(TokenString, 1) 
-FROM ClrSampleData.dbo.StringTokens
-*/
