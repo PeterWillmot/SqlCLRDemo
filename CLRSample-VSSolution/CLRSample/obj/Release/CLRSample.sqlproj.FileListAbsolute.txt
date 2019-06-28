@@ -5,3 +5,10 @@ C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Release\refactor.xml
 C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Release\postdeploy.sql
 C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Release\predeploy.sql
 C:\Temp\SQLCLRSamples\CLRSample\CLRSample\obj\Release\SqlClassLibrary.dll
+C:\git\qri\SqlCLRDemo\CLRSample-VSSolution\CLRSample\bin\Release\CLRSample.dacpac
+C:\git\qri\SqlCLRDemo\CLRSample-VSSolution\CLRSample\bin\Release\SqlClassLibrary.dll
+C:\git\qri\SqlCLRDemo\CLRSample-VSSolution\CLRSample\obj\Release\Model.xml
+C:\git\qri\SqlCLRDemo\CLRSample-VSSolution\CLRSample\obj\Release\refactor.xml
+C:\git\qri\SqlCLRDemo\CLRSample-VSSolution\CLRSample\obj\Release\postdeploy.sql
+C:\git\qri\SqlCLRDemo\CLRSample-VSSolution\CLRSample\obj\Release\predeploy.sql
+C:\git\qri\SqlCLRDemo\CLRSample-VSSolution\CLRSample\obj\Release\SqlClassLibrary.dll
