@@ -6,7 +6,7 @@ GO
 IF EXISTS(SELECT * from sys.objects WHERE name = 'ufn_GetTokenLength') DROP FUNCTION dbo.ufn_GetTokenLength
 GO
 
-CREATE FUNCTION ufn_GetTokenLength(@SrcString nvarchar(4000), @TokenNo int)
+CREATE FUNCTION ufn_GetTokenLength(@SrcString nvarchar(4000), @delimiter char, @TokenNo int)
 	RETURNS INT
 AS
 BEGIN
@@ -14,7 +14,7 @@ BEGIN
 
 	SET @CurrOffset = 0
 	SET @TokenCnt = 0
-	SET @NextOffset = CHARINDEX('|', @SrcString)
+	SET @NextOffset = CHARINDEX(@delimiter, @SrcString)
 
 	WHILE (@NextOffset <> 0)
 	BEGIN
@@ -23,7 +23,7 @@ BEGIN
 
         SET @CurrOffset = @NextOffset + 1
         SET @TokenCnt = @TokenCnt + 1
-        SET @NextOffset = CHARINDEX('|',@SrcString, @NextOffset+1)
+        SET @NextOffset = CHARINDEX(@delimiter, @SrcString, @NextOffset+1)
 	END
 
 	RETURN -1
